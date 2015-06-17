@@ -176,6 +176,7 @@
 				TargetAttributes = {
 					184A17611B2D2903003FD7F6 = {
 						CreatedOnToolsVersion = 6.3.2;
+						DevelopmentTeam = 3HXFD4E2ZR;
 					};
 					184A177A1B2D2903003FD7F6 = {
 						CreatedOnToolsVersion = 6.3.2;
@@ -359,6 +360,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "part2-LOLHero/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -369,6 +371,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "part2-LOLHero/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -428,6 +431,7 @@
 				184A17871B2D2903003FD7F6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		184A17881B2D2903003FD7F6 /* Build configuration list for PBXNativeTarget "part2-LOLHeroTests" */ = {
 			isa = XCConfigurationList;
@@ -436,6 +440,7 @@
 				184A178A1B2D2903003FD7F6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
